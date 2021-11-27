@@ -2,6 +2,11 @@
 
 #  CLB-09 Abdul Basit Kamboh عبدالباسط
 
+<p align="center">
+<img width="50%" src="src/IMG_20211127_050247.jpg"/>
+
+<img width="57%" src="src/IMG_20211127_050228.jpg"/> 
+
 *  `termux-setup-storage`
 *  `apt update`
 *  `apt upgrade`
